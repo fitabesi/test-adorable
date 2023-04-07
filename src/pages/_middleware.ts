@@ -7,6 +7,6 @@ const path = url.parse(req.url).path;
 
  if(ref && ref.includes("facebook.com"))
      {
-      return NextResponse.redirect('https://lololovedogs.com'+path)
+      return NextResponse.redirect('https://adorablemeowkittens.com'+path)
      } 
 }
